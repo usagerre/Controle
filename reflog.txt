@@ -1,0 +1,19 @@
+1f04226 (HEAD -> main) HEAD@{0}: commit: Ajout du fichier log.txt
+ba74fb6 HEAD@{1}: checkout: moving from tobedeleted to main
+3289271 HEAD@{2}: commit: Ajout d’azerty
+ba74fb6 HEAD@{3}: checkout: moving from main to tobedeleted
+ba74fb6 HEAD@{4}: reset: moving to HEAD^
+a65751e (météo) HEAD@{5}: reset: moving to HEAD^
+ab4afb1 (origin/main, origin/HEAD) HEAD@{6}: cherry-pick: README dans la branche hobby
+a65751e (météo) HEAD@{7}: checkout: moving from hobby to main
+cc64d9a (hobby) HEAD@{8}: commit: README dans la branche hobby
+c306288 HEAD@{9}: commit: README dans la branche météo
+a65751e (météo) HEAD@{10}: checkout: moving from main to hobby
+a65751e (météo) HEAD@{11}: merge météo: Fast-forward
+f64b8ce HEAD@{12}: checkout: moving from météo to main
+a65751e (météo) HEAD@{13}: commit: README dans la branche météo
+ba74fb6 HEAD@{14}: commit: Modification météo
+f64b8ce HEAD@{15}: checkout: moving from main to météo
+f64b8ce HEAD@{16}: commit: hello world
+92daa6c HEAD@{17}: commit: creation du fichier README
+f048de9 HEAD@{18}: clone: from https://github.com/usagerre/Controle.git
